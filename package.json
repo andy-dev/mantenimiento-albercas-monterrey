@@ -1,0 +1,18 @@
+{
+  "name": "mattoalbercasmty",
+  "version": "1.0.0",
+  "description": "Mtto Albercas Monterrey",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "enginges":{
+    "node": "10.9.0"
+  },
+  "author": "Andres Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
